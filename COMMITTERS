@@ -1,0 +1,43 @@
+The following people have commit access to the Shindig sources.
+Note that this is not a full list of Shindig's authors, however --
+for that, you'd need to look over the log messages to see all the
+patch contributors.
+
+If you have a question or comment, it's probably best to mail
+dev@shindig.apache.org, rather than mailing any of these
+people directly.
+
+Blanket commit access:
+
+    Adam Winer                 <awiner@apache.org>                               (emeritus)
+    Andreas Kohn               <ankon@apache.org>               [2013-12-08]
+    Bastian Hofmann            <bhofmann@apache.org>            [2010-08-14]
+    Cassie Doll                <doll@apache.org>                                 (emeritus)
+    Chico Charlesworth         <chico@apache.org>
+    Chirag Shah                <chirag@apache.org>              [2010-02-20]
+    Chris Chabot               <chabotc@apache.org>                              (emeritus)
+    Dan Dumont                 <ddumont@apache.org>             [2011-11-29]
+    Daniel Peterson            <dpeterson@apache.org>
+    Eric Woods                 <woodser@apache.org>             [2011-03-05]
+    Evan Gilbert               <evan@apache.org>
+    Gagandeep Singh            <gagan@apache.org>               [2010-09-01]
+    Han Thi Ngoc Nguyen        <hnguy@apache.org>               [2010-09-01]
+    Henning Schmiedehausen     <henning@apache.org>                          (*) (emeritus)
+    Henry Saputra              <hsaputra@apache.org>            [2010-06-25] (*) (emeritus)
+    Ian Boston                 <ieb@apache.org>                              (*) (emeritus)
+    Jacky Wang                 <chaowang@apache.org>            [2010-03-14]
+    Jacobo Tarrio Barreiro     <jtarrio@apache.org>             [2011-03-05]
+    Jesse Ciancetta            <jcian@apache.org>               [2011-11-29]     (emeritus)
+    John Hjelmstad             <johnh@apache.org>
+    Kevin Brown                <etnu@apache.org>                                 (emeritus)
+    Li Xu                      <lixu@apache.org>                [2011-11-29]
+    Louis Ryan                 <lryan@apache.org>                                (emeritus)
+    Mathew Mannion             <mmannion@apache.org>            [2011-03-05]
+    Michael Hermanto           <mhermanto@apache.org>           [2010-09-01]
+    Paul Lindner               <lindner@apache.org>                          (*)
+    Ryan Baxter (chair)        <rbaxter85@apache.org>           [2011-11-29]
+    Santiago Gala              <sgala@apache.org>                            (*)
+    Stanton Sievers            <ssievers@apache.org>            [2011-11-29]
+    Upayavira                  <upayavira@apache.org>                        (*)
+    Vincent Siveton            <vsiveton@apache.org>                         (*) (emeritus)
+    Ziv Horesh                 <zhoresh@apache.org>             [2010-04-18]
